@@ -1,0 +1,32 @@
+[
+    {
+        "LicenseKey": "ABC123-XYZ779",
+        "MACKey": "3F:9F",
+        "SetupDone": "YES",
+        "Status": "Active"
+    },
+    {
+        "LicenseKey": "DEF456-GHI101",
+        "MACKey": "",
+        "SetupDone": "NO",
+        "Status": "Not Active"
+    },
+    {
+        "LicenseKey": 1,
+        "MACKey": "",
+        "SetupDone": "NO",
+        "Status": "Not Active"
+    },
+    {
+        "LicenseKey": 1,
+        "MACKey": "",
+        "SetupDone": "NO",
+        "Status": "Not Active"
+    },
+    {
+        "LicenseKey": 1,
+        "MACKey": "",
+        "SetupDone": "NO",
+        "Status": "Not Active"
+    }
+]

@@ -1,0 +1,2 @@
+
+web: gunicorn TruckAPI:app
